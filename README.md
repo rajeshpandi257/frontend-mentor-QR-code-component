@@ -27,8 +27,8 @@ This project is a simple QR code generator designed solely using HTML and CSS.  
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/rajeshpandi257/frontend-mentor-QR-code-component))
-- Live Site URL: [Add live site URL here](https://rajeshpandi257.github.io/frontend-mentor-QR-code-component/)
+- Solution URL: [solution URL here](https://github.com/rajeshpandi257/frontend-mentor-QR-code-component)
+- Live Site URL: [live site URL here](https://rajeshpandi257.github.io/frontend-mentor-QR-code-component/)
 
 ## My process
 
